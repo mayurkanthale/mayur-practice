@@ -17,6 +17,7 @@ package cOre;
 	   @Test
 	   public void testCase1() {
 	      System.out.println("in test case 1");
+		    System.out.println("vijay test");
 	   }
 
 	   @Test
