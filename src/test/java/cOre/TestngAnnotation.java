@@ -23,6 +23,8 @@ package cOre;
 	   @Test
 	   public void testCase2() {
 	      System.out.println("in test case 2");
+		   	      System.out.println("in test case 1");
+
 	   }
 
 	   @BeforeMethod
